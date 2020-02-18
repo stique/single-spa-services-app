@@ -1,5 +1,5 @@
 <template>
-  <div id="vue-app">
+  <div id="services-app">
       <div id="vue-component" class="container">
           <div class="main">
             <h1><img src="https://vuejs.org/images/logo.png" width="50" height="50"> Vue App</h1>
